@@ -4,7 +4,7 @@
 4,European Bison,Poland,581.0,277.0,Female,52.834109,23.807093,2024-03-01,Anne Anthony,Adulto
 5,European Bison,Poland,900.0,295.0,Male,52.834759,23.817201,2024-03-01,Anne Anthony,Adulto
 6,European Bison,Poland,620.0,250.0,Female,52.83496,23.82075,2024-03-01,Anne Anthony,Adulto
-7,Lynx,Hungary,20.774193548387096,76.0,Male,48.505494,20.551966,2024-03-01,Anne Anthony,Adulto
+7,Lynx,Hungary,24.0,76.0,Male,48.505494,20.551966,2024-03-01,Anne Anthony,Adulto
 8,Lynx,Hungary,23.0,82.0,Female,48.506529,20.554548,2024-03-01,Anne Anthony,Adulto
 9,Red Squirrel,Poland,0.308,22.0,Female,52.241273,21.055745,2024-03-01,Anne Anthony,Adulto
 10,Red Squirrel,Poland,0.348,20.0,Female,52.24206,21.057802,2024-03-01,Anne Anthony,Adulto
@@ -18,21 +18,21 @@
 18,Red Squirrel,Poland,0.328,21.0,Male,52.241905,21.050727,2024-03-01,Anne Anthony,Adulto
 19,Red Squirrel,Hungary,0.305,21.0,Male,47.511401,18.949119,2024-03-01,Anne Anthony,Adulto
 20,Red Squirrel,Poland,0.328,23.0,Male,52.24192,21.056347,2024-03-01,Anne Anthony,Adulto
-21,Red Squirrel,Germany,0.294,19.0,Male,49.75174816308506,11.923503278046415,2024-03-01,Bob Bobson,Adulto
-22,Red Squirrel,Germany,0.25,19.0,Female,49.729745377170886,11.919924186239239,2024-03-01,Bob Bobson,Joven
-23,Red Squirrel,Germany,0.262,21.0,Male,49.7734293047854,11.891059192345768,2024-03-01,Bob Bobson,Adulto
-24,Red Squirrel,Germany,0.267,21.0,Female,49.792797296138986,11.881280716281928,2024-03-01,Bob Bobson,Adulto
-25,Red Squirrel,Germany,0.269,22.0,Male,49.7769155415949,11.839030321055843,2024-03-01,Bob Bobson,Adulto
-26,Red Squirrel,Germany,0.308,22.0,Female,49.71639555905932,11.916467471280901,2024-03-01,Bob Bobson,Adulto
-27,Red Squirrel,Germany,0.308,19.0,Male,49.742972300906715,11.83119121937333,2024-03-01,Bob Bobson,Adulto
-28,Red Squirrel,Germany,0.27,20.0,Male,49.78898636391452,11.8953566292616,2024-03-01,Bob Bobson,Adulto
-29,Red Squirrel,Germany,0.32,20.0,Male,49.751746871746924,11.9202113444481,2024-03-01,Bob Bobson,Adulto
-30,Red Squirrel,Germany,0.262,20.0,Male,49.77432960339255,11.907142926926447,2024-03-01,Bob Bobson,Adulto
-31,Red Squirrel,Germany,0.256,21.0,Male,49.76556949946005,11.835432716025458,2024-03-01,Bob Bobson,Adulto
-32,Red Squirrel,Germany,0.245,22.0,Male,49.76336307761683,11.857905683994748,2024-03-01,Bob Bobson,Joven
-33,Red Squirrel,Germany,0.292,19.0,Male,49.72083707405556,11.865648862647264,2024-03-01,Bob Bobson,Adulto
-34,Red Squirrel,Germany,0.289,19.0,Female,49.759248704227964,11.881612376455683,2024-03-01,Bob Bobson,Adulto
-35,Red Squirrel,Germany,0.308,22.0,Male,49.798185793169516,11.833169317916642,2024-03-01,Bob Bobson,Adulto
+21,Red Squirrel,Germany,0.294,19.0,Male,49.74831350047897,11.836112024278949,2024-03-01,Bob Bobson,Adulto
+22,Red Squirrel,Germany,0.25,19.0,Female,49.76027490617989,11.840643111152367,2024-03-01,Bob Bobson,Joven
+23,Red Squirrel,Germany,0.262,21.0,Male,49.72510420417945,11.908388277458378,2024-03-01,Bob Bobson,Adulto
+24,Red Squirrel,Germany,0.267,21.0,Female,49.771448831060475,11.852401917296673,2024-03-01,Bob Bobson,Adulto
+25,Red Squirrel,Germany,0.269,22.0,Male,49.78449704323912,11.898249804107543,2024-03-01,Bob Bobson,Adulto
+26,Red Squirrel,Germany,0.308,22.0,Female,49.72932120631052,11.880597744559925,2024-03-01,Bob Bobson,Adulto
+27,Red Squirrel,Germany,0.308,19.0,Male,49.79132394939266,11.895020756408293,2024-03-01,Bob Bobson,Adulto
+28,Red Squirrel,Germany,0.27,20.0,Male,49.741012997942455,11.856010930545509,2024-03-01,Bob Bobson,Adulto
+29,Red Squirrel,Germany,0.32,20.0,Male,49.75159562411187,11.856407516523221,2024-03-01,Bob Bobson,Adulto
+30,Red Squirrel,Germany,0.262,20.0,Male,49.742022897443555,11.835594570478845,2024-03-01,Bob Bobson,Adulto
+31,Red Squirrel,Germany,0.256,21.0,Male,49.757061020832715,11.92258718548936,2024-03-01,Bob Bobson,Adulto
+32,Red Squirrel,Germany,0.245,22.0,Male,49.74327959019825,11.908421911915754,2024-03-01,Bob Bobson,Joven
+33,Red Squirrel,Germany,0.292,19.0,Male,49.75633431688213,11.905113200745152,2024-03-01,Bob Bobson,Adulto
+34,Red Squirrel,Germany,0.289,19.0,Female,49.78705568733565,11.90351242348985,2024-03-01,Bob Bobson,Adulto
+35,Red Squirrel,Germany,0.308,22.0,Male,49.75197245142196,11.877041575954953,2024-03-01,Bob Bobson,Adulto
 36,European Bison,Slovakia,420.0,182.0,Male,49.054684,22.417189,2024-03-01,John Johnson,Adulto
 37,European Bison,Slovakia,511.0,266.0,Female,49.053629,22.421831,2024-03-01,John Johnson,Adulto
 38,European Bison,Slovakia,814.0,288.0,Male,49.053489,22.415229,2024-03-01,John Johnson,Adulto
@@ -49,38 +49,38 @@
 49,Red Squirrel,Slovakia,0.275,23.0,Male,48.185353,17.08322,2024-03-01,John Johnson,Adulto
 50,Hedgehog,Czech Republic,0.9,22.0,Male,50.642843,14.84124,2024-03-01,John Johnson,Adulto
 63,Lynx,Hungary,23.0,78.0,Female,48.504128,20.568479,2024-03-02,Anne Anthony,Adulto
-64,Lynx,Poland,20.774193548387096,94.0,Male,52.809851,23.858071,2024-03-02,Anne Anthony,Adulto
-65,Red Squirrel,Germany,0.244,22.0,Female,49.738872677289876,11.838587750636062,2024-03-02,Bob Bobson,Joven
-66,Red Squirrel,Germany,0.299,21.0,Male,49.79081009696552,11.91940001565913,2024-03-02,Bob Bobson,Adulto
-67,Red Squirrel,Germany,0.284,20.0,Female,49.74265029416898,11.928619716399826,2024-03-02,Bob Bobson,Adulto
-68,Red Squirrel,Germany,0.289,20.0,Female,49.78219070223495,11.91432411462699,2024-03-02,Bob Bobson,Adulto
-69,Red Squirrel,Germany,0.284,21.0,Male,49.71469170739016,11.875656381863159,2024-03-02,Bob Bobson,Adulto
-70,Red Squirrel,Germany,0.314,22.0,Male,49.70813731713816,11.882394259792019,2024-03-02,Bob Bobson,Adulto
-71,Red Squirrel,Germany,0.262,19.0,Female,49.77353004641228,11.871097419688857,2024-03-02,Bob Bobson,Adulto
-72,Red Squirrel,Germany,0.258,20.0,Male,49.76026229209462,11.919695013763342,2024-03-02,Bob Bobson,Adulto
-73,Red Squirrel,Germany,0.297,21.0,Male,49.71601073571974,11.848642287205074,2024-03-02,Bob Bobson,Adulto
-74,Red Squirrel,Germany,0.255,22.0,Female,49.73741089600583,11.907951693054391,2024-03-02,Bob Bobson,Adulto
-75,Red Squirrel,Germany,0.28,22.0,Male,49.79679286405791,11.930123665244778,2024-03-02,Bob Bobson,Adulto
-76,Red Squirrel,Germany,0.293,22.0,Male,49.77984601951514,11.849783378543407,2024-03-02,Bob Bobson,Adulto
-77,Red Squirrel,Germany,0.295,20.0,Male,49.71295420901798,11.869263903441668,2024-03-02,Bob Bobson,Adulto
-78,Red Squirrel,Germany,0.28,20.0,Male,49.710764788827625,11.91531175610186,2024-03-02,Bob Bobson,Adulto
-79,Red Squirrel,Germany,0.281,20.0,Male,49.7148741025936,11.8462411705082,2024-03-02,Bob Bobson,Adulto
-80,Red Squirrel,Germany,0.245,21.0,Female,49.70474344435323,11.846627989456957,2024-03-02,Bob Bobson,Joven
-81,Red Squirrel,Germany,0.283,21.0,Male,49.789220531565924,11.90519341472427,2024-03-02,Bob Bobson,Adulto
-82,Red Squirrel,Germany,0.27,19.0,Male,49.78152156599264,11.896953036432281,2024-03-02,Bob Bobson,Adulto
-83,Red Squirrel,Germany,0.315,22.0,Male,49.765671920957,11.910875407139253,2024-03-02,Bob Bobson,Adulto
-84,Red Squirrel,Germany,0.254,17.0,Female,49.75878693299755,11.916671343570647,2024-03-02,Bob Bobson,Adulto
-85,Red Squirrel,Germany,0.249,19.0,Male,49.75682014703431,11.874529394458433,2024-03-02,Bob Bobson,Joven
-86,Red Squirrel,Germany,0.298,21.0,Male,49.778191509315285,11.839124643683556,2024-03-02,Bob Bobson,Adulto
-87,Red Squirrel,Germany,0.314,19.0,Female,49.75321603423533,11.84889292153772,2024-03-02,Bob Bobson,Adulto
-89,Red Squirrel,Germany,0.251,19.0,Male,49.73630145481674,11.913187625925241,2024-03-02,Bob Bobson,Adulto
-90,Red Squirrel,Germany,0.293,20.0,Female,49.72614103265396,11.894793928554042,2024-03-02,Bob Bobson,Adulto
-91,Red Squirrel,Germany,0.301,20.0,Male,49.71573104065048,11.868365043512485,2024-03-02,Bob Bobson,Adulto
-92,Red Squirrel,Germany,0.271,17.0,Male,49.76089997979771,11.882886751098619,2024-03-02,Bob Bobson,Adulto
-93,Red Squirrel,Germany,0.275,20.0,Male,49.781003114424685,11.86084215482601,2024-03-02,Bob Bobson,Adulto
-95,Red Squirrel,Germany,0.304,21.0,Male,49.71294207210796,11.921549405314156,2024-03-02,Bob Bobson,Adulto
-96,Red Squirrel,Germany,0.308,20.0,Male,49.71026598190751,11.904598741772931,2024-03-02,Bob Bobson,Adulto
-97,Red Squirrel,Germany,0.24,21.0,Male,49.73185946133035,11.85705089852704,2024-03-02,Bob Bobson,Joven
+64,Lynx,Poland,29.0,94.0,Male,52.809851,23.858071,2024-03-02,Anne Anthony,Adulto
+65,Red Squirrel,Germany,0.244,22.0,Female,49.7408615625082,11.870789181427654,2024-03-02,Bob Bobson,Joven
+66,Red Squirrel,Germany,0.299,21.0,Male,49.72374565347476,11.83594912151301,2024-03-02,Bob Bobson,Adulto
+67,Red Squirrel,Germany,0.284,20.0,Female,49.72742909384554,11.831901043313328,2024-03-02,Bob Bobson,Adulto
+68,Red Squirrel,Germany,0.289,20.0,Female,49.77576163160119,11.853777297141527,2024-03-02,Bob Bobson,Adulto
+69,Red Squirrel,Germany,0.284,21.0,Male,49.70639689855827,11.875345874250973,2024-03-02,Bob Bobson,Adulto
+70,Red Squirrel,Germany,0.314,22.0,Male,49.707102437562554,11.835092306389507,2024-03-02,Bob Bobson,Adulto
+71,Red Squirrel,Germany,0.262,19.0,Female,49.726796975158514,11.8919212522879,2024-03-02,Bob Bobson,Adulto
+72,Red Squirrel,Germany,0.258,20.0,Male,49.70750084838743,11.856498428739688,2024-03-02,Bob Bobson,Adulto
+73,Red Squirrel,Germany,0.297,21.0,Male,49.74097833970747,11.857758698379127,2024-03-02,Bob Bobson,Adulto
+74,Red Squirrel,Germany,0.255,22.0,Female,49.753495784153735,11.890124159428247,2024-03-02,Bob Bobson,Adulto
+75,Red Squirrel,Germany,0.28,22.0,Male,49.7011938178609,11.846905944750004,2024-03-02,Bob Bobson,Adulto
+76,Red Squirrel,Germany,0.293,22.0,Male,49.75132523307621,11.889423594070955,2024-03-02,Bob Bobson,Adulto
+77,Red Squirrel,Germany,0.295,20.0,Male,49.78588020252296,11.84085314314325,2024-03-02,Bob Bobson,Adulto
+78,Red Squirrel,Germany,0.28,20.0,Male,49.70402394704158,11.865744343060673,2024-03-02,Bob Bobson,Adulto
+79,Red Squirrel,Germany,0.281,20.0,Male,49.767431914986624,11.86956931265223,2024-03-02,Bob Bobson,Adulto
+80,Red Squirrel,Germany,0.245,21.0,Female,49.7077809140139,11.926895454301304,2024-03-02,Bob Bobson,Joven
+81,Red Squirrel,Germany,0.283,21.0,Male,49.78478087607219,11.874288130640574,2024-03-02,Bob Bobson,Adulto
+82,Red Squirrel,Germany,0.27,19.0,Male,49.79286257125332,11.913408735404655,2024-03-02,Bob Bobson,Adulto
+83,Red Squirrel,Germany,0.315,22.0,Male,49.732604236773575,11.841449634336591,2024-03-02,Bob Bobson,Adulto
+84,Red Squirrel,Germany,0.254,17.0,Female,49.7810169756147,11.870982715166628,2024-03-02,Bob Bobson,Adulto
+85,Red Squirrel,Germany,0.249,19.0,Male,49.71977526792813,11.837269096613626,2024-03-02,Bob Bobson,Joven
+86,Red Squirrel,Germany,0.298,21.0,Male,49.78172936087077,11.858910388220517,2024-03-02,Bob Bobson,Adulto
+87,Red Squirrel,Germany,0.314,19.0,Female,49.73814865952619,11.864743787344565,2024-03-02,Bob Bobson,Adulto
+89,Red Squirrel,Germany,0.251,19.0,Male,49.74661461769062,11.901946393353287,2024-03-02,Bob Bobson,Adulto
+90,Red Squirrel,Germany,0.293,20.0,Female,49.718568632671825,11.91600947018457,2024-03-02,Bob Bobson,Adulto
+91,Red Squirrel,Germany,0.301,20.0,Male,49.78897887932867,11.843331494919266,2024-03-02,Bob Bobson,Adulto
+92,Red Squirrel,Germany,0.271,17.0,Male,49.776159400959486,11.845703002148916,2024-03-02,Bob Bobson,Adulto
+93,Red Squirrel,Germany,0.275,20.0,Male,49.69931043699704,11.919647364005622,2024-03-02,Bob Bobson,Adulto
+95,Red Squirrel,Germany,0.304,21.0,Male,49.7941373436739,11.882172715708009,2024-03-02,Bob Bobson,Adulto
+96,Red Squirrel,Germany,0.308,20.0,Male,49.74339154725807,11.83567232852869,2024-03-02,Bob Bobson,Adulto
+97,Red Squirrel,Germany,0.24,21.0,Male,49.797520514366,11.90483008843518,2024-03-02,Bob Bobson,Joven
 98,European Bison,Czech Republic,402.0,162.0,Female,50.641008,14.836529,2024-03-02,John Johnson,Adulto
 99,European Bison,Czech Republic,535.0,295.0,Male,50.643406,14.836495,2024-03-02,John Johnson,Adulto
 100,European Bison,Czech Republic,572.0,251.0,Female,50.638945,14.845452,2024-03-02,John Johnson,Adulto
@@ -95,7 +95,7 @@
 109,Lynx,Slovakia,30.0,120.0,Male,48.409308,18.832606,2024-03-02,John Johnson,Adulto
 110,Red Squirrel,Hungary,0.262,20.0,Female,47.510799,18.945583,2024-03-03,Anne Anthony,Adulto
 112,Hedgehog,Czech Republic,0.6,20.0,Male,50.637375,14.839785,2024-03-03,John Johnson,Adulto
-113,Lynx,Slovakia,20.774193548387096,131.0,Male,48.406304,18.842851,2024-03-03,John Johnson,Adulto
+113,Lynx,Slovakia,28.0,131.0,Male,48.406304,18.842851,2024-03-03,John Johnson,Adulto
 114,Red Squirrel,Slovakia,0.281,18.0,Male,48.18769,17.086471,2024-03-03,John Johnson,Adulto
 116,European Bison,Poland,650.0,285.0,Female,52.834741,23.826716,2024-03-04,Anne Anthony,Adulto
 117,Hedgehog,Hungary,1.1,24.0,Male,48.503795,20.555932,2024-03-04,Anne Anthony,Adulto
@@ -103,7 +103,7 @@
 119,Hedgehog,Hungary,0.8,18.0,Female,48.503498,20.539662,2024-03-04,Anne Anthony,Adulto
 120,Hedgehog,Hungary,1.2,26.0,Male,48.509298,20.551977,2024-03-04,Anne Anthony,Adulto
 121,Hedgehog,Poland,0.9,22.0,Male,52.214679,21.033021,2024-03-04,Anne Anthony,Adulto
-122,Lynx,Hungary,20.774193548387096,89.0,Male,48.504169,20.559452,2024-03-04,Anne Anthony,Adulto
+122,Lynx,Hungary,25.0,89.0,Male,48.504169,20.559452,2024-03-04,Anne Anthony,Adulto
 123,Red Squirrel,Hungary,0.283,18.0,Female,48.505251,20.551473,2024-03-04,Anne Anthony,Adulto
 124,Red Squirrel,Hungary,0.307,20.64351851851852,Male,47.510282000000004,18.947628,2024-03-04,Anne Anthony,Adulto
 125,Red Squirrel,Hungary,0.296,22.0,Male,48.502584,20.532518,2024-03-04,Anne Anthony,Adulto
@@ -124,12 +124,12 @@
 140,Hedgehog,Czech Republic,0.9,22.0,Female,50.638142,14.849689,2024-03-04,John Johnson,Adulto
 141,Red Squirrel,Czech Republic,0.289,21.0,Female,49.937872,14.179825,2024-03-04,John Johnson,Adulto
 142,Red Squirrel,Slovakia,0.297,20.0,Female,48.185194,17.083142,2024-03-04,John Johnson,Adulto
-159,Lynx,Hungary,20.774193548387096,79.0,Male,48.503043,20.561567,2024-03-05,Anne Anthony,Adulto
+159,Lynx,Hungary,24.0,79.0,Male,48.503043,20.561567,2024-03-05,Anne Anthony,Adulto
 160,Red Squirrel,Poland,0.301,23.0,Female,52.240867,21.054339,2024-03-05,Anne Anthony,Adulto
 161,Red Squirrel,Poland,0.344,20.0,Male,52.240522,21.057552,2024-03-05,Anne Anthony,Adulto
 162,Red Squirrel,Hungary,0.253,20.64351851851852,Male,47.507002,18.950091,2024-03-05,Anne Anthony,Adulto
 163,Red Squirrel,Hungary,0.293,18.0,Female,47.507557,18.942066,2024-03-05,Anne Anthony,Adulto
-164,Red Squirrel,Austria,0.263,22.0,Male,47.855082300849865,14.663260558763525,2024-03-05,Bob Bobson,Adulto
+164,Red Squirrel,Austria,0.263,22.0,Male,47.785325171888715,14.718005922372317,2024-03-05,Bob Bobson,Adulto
 165,Hedgehog,Czech Republic,0.9,19.0,Female,50.107284,14.346127,2024-03-05,John Johnson,Adulto
 166,Lynx,Slovakia,23.0,97.0,Female,48.413226,18.848128,2024-03-05,John Johnson,Adulto
 167,Red Squirrel,Slovakia,0.333,23.0,Male,48.409023,18.84399,2024-03-05,John Johnson,Adulto
@@ -159,7 +159,7 @@
 197,Hedgehog,Hungary,1.2,23.0,Male,48.503254,20.555951,2024-03-07,Anne Anthony,Adulto
 198,Hedgehog,Hungary,0.5,15.0,Male,48.502359,20.563385,2024-03-07,Anne Anthony,Joven
 199,Hedgehog,Hungary,0.6,18.0,Female,48.511048,20.567209,2024-03-07,Anne Anthony,Adulto
-200,Lynx,Hungary,20.774193548387096,109.0,Male,48.501574,20.532455,2024-03-07,Anne Anthony,Adulto
+200,Lynx,Hungary,29.0,109.0,Male,48.501574,20.532455,2024-03-07,Anne Anthony,Adulto
 201,Lynx,Poland,26.0,85.0,Female,52.808579,23.843768,2024-03-07,Anne Anthony,Adulto
 202,Red Squirrel,Hungary,0.296,19.0,Male,47.510282000000004,18.947628,2024-03-07,Anne Anthony,Adulto
 203,Red Squirrel,Hungary,0.3,23.0,Male,48.505406,20.535848,2024-03-07,Anne Anthony,Adulto
@@ -184,7 +184,7 @@
 227,Lynx,Hungary,12.0,61.0,Female,48.508239,20.567914,2024-03-09,Anne Anthony,Joven
 228,Lynx,Hungary,23.0,73.0,Female,48.507503,20.551726,2024-03-09,Anne Anthony,Adulto
 229,Lynx,Poland,20.0,95.0,Female,52.814984,23.840681,2024-03-09,Anne Anthony,Adulto
-230,Lynx,Poland,20.774193548387096,63.0,Male,52.812647,23.863299,2024-03-09,Anne Anthony,Adulto
+230,Lynx,Poland,18.0,63.0,Male,52.812647,23.863299,2024-03-09,Anne Anthony,Adulto
 231,Red Squirrel,Poland,0.302,22.0,Male,52.241375,21.050845,2024-03-09,Anne Anthony,Adulto
 232,Red Squirrel,Hungary,0.284,20.0,Female,47.50938,18.949607,2024-03-09,Anne Anthony,Adulto
 233,Hedgehog,Czech Republic,0.9,22.0,Female,50.106583,14.346471,2024-03-09,John Johnson,Adulto
@@ -195,7 +195,7 @@
 240,Hedgehog,Hungary,0.9,21.0,Male,48.50529,20.566169,2024-03-10,Anne Anthony,Adulto
 241,Hedgehog,Hungary,1.1,26.0,Male,48.502486,20.562565,2024-03-10,Anne Anthony,Adulto
 242,Lynx,Hungary,23.0,77.0,Female,48.509272,20.551952,2024-03-10,Anne Anthony,Adulto
-243,Lynx,Hungary,20.774193548387096,71.0,Male,48.50118,20.557432,2024-03-10,Anne Anthony,Adulto
+243,Lynx,Hungary,15.0,71.0,Male,48.50118,20.557432,2024-03-10,Anne Anthony,Joven
 244,Hedgehog,Czech Republic,0.8,17.0,Male,49.938707,14.182507,2024-03-10,John Johnson,Adulto
 245,Hedgehog,Czech Republic,0.5,18.0,Female,49.937531,14.180359,2024-03-10,John Johnson,Joven
 246,Hedgehog,Czech Republic,0.7,17.0,Female,49.93789,14.180882,2024-03-10,John Johnson,Adulto
@@ -222,7 +222,7 @@
 276,Red Squirrel,Czech Republic,0.324,23.0,Female,49.937724,14.182072,2024-03-12,John Johnson,Adulto
 279,Hedgehog,Hungary,0.6,14.0,Female,48.506262,20.547343,2024-03-13,Anne Anthony,Adulto
 280,Hedgehog,Poland,0.8,24.0,Male,52.214734,21.031915,2024-03-13,Anne Anthony,Adulto
-281,Lynx,Hungary,20.774193548387096,86.0,Male,48.504717,20.558726,2024-03-13,Anne Anthony,Adulto
+281,Lynx,Hungary,20.0,86.0,Male,48.504717,20.558726,2024-03-13,Anne Anthony,Adulto
 282,Red Squirrel,Poland,0.36,23.0,Female,52.24151,21.052575,2024-03-13,Anne Anthony,Adulto
 283,Red Squirrel,Hungary,0.26,18.0,Male,47.505768,18.943674,2024-03-13,Anne Anthony,Adulto
 284,Red Squirrel,Germany,0.335,18.0,Male,48.161549,11.493041,2024-03-13,Bob Bobson,Adulto
@@ -241,17 +241,17 @@
 299,Hedgehog,Austria,0.7,24.0,Male,47.780872,14.38446,2024-03-14,Bob Bobson,Adulto
 300,Hedgehog,Austria,0.8,21.0,Female,47.781117,14.38608,2024-03-14,Bob Bobson,Adulto
 301,Lynx,Austria,22.0,80.0,Female,47.780779,14.384918,2024-03-14,Bob Bobson,Adulto
-302,Lynx,Austria,20.774193548387096,86.0,Male,47.781257,14.383099,2024-03-14,Bob Bobson,Adulto
+302,Lynx,Austria,23.0,86.0,Male,47.781257,14.383099,2024-03-14,Bob Bobson,Adulto
 303,Hedgehog,Czech Republic,0.9,16.0,Female,49.93849,14.1802,2024-03-14,John Johnson,Adulto
 306,Hedgehog,Poland,0.9,22.0,Male,52.214498,21.034201,2024-03-15,Anne Anthony,Adulto
-307,Lynx,Poland,20.774193548387096,70.0,Male,52.803129,23.844358,2024-03-15,Anne Anthony,Adulto
+307,Lynx,Poland,16.0,70.0,Male,52.803129,23.844358,2024-03-15,Anne Anthony,Adulto
 308,Hedgehog,Czech Republic,0.7,21.0,Female,49.938132,14.181225,2024-03-15,John Johnson,Adulto
 309,Red Squirrel,Slovakia,0.294,23.0,Male,48.184374,17.086,2024-03-15,John Johnson,Adulto
 310,Red Squirrel,Czech Republic,0.267,18.0,Female,49.93886,14.182738,2024-03-15,John Johnson,Adulto
 311,Red Squirrel,Czech Republic,0.328,19.0,Male,49.938357,14.177929,2024-03-15,John Johnson,Adulto
 312,European Bison,Poland,35.0,125.0,Female,52.820739,23.815145,2024-03-16,Anne Anthony,Joven
 313,Hedgehog,Hungary,0.6,23.0,Male,48.501763,20.547976,2024-03-16,Anne Anthony,Adulto
-314,Lynx,Poland,20.774193548387096,72.0,Male,52.814211,23.834358,2024-03-16,Anne Anthony,Adulto
+314,Lynx,Poland,16.0,72.0,Male,52.814211,23.834358,2024-03-16,Anne Anthony,Adulto
 315,Lynx,Poland,18.0,81.0,Female,52.802757,23.835199,2024-03-16,Anne Anthony,Adulto
 316,Red Squirrel,Poland,0.346,19.0,Male,52.240529,21.053603,2024-03-16,Anne Anthony,Adulto
 317,Red Squirrel,Hungary,0.27,22.0,Female,47.509866,18.942538,2024-03-16,Anne Anthony,Adulto
@@ -283,7 +283,7 @@
 347,Hedgehog,Germany,0.4,13.0,Female,52.587327,13.149206,2024-03-19,Bob Bobson,Joven
 348,Hedgehog,Germany,1.0,21.0,Male,52.585937,13.146151,2024-03-19,Bob Bobson,Adulto
 349,Hedgehog,Czech Republic,1.0,17.0,Female,49.937696,14.182707,2024-03-19,John Johnson,Adulto
-350,Lynx,Slovakia,20.774193548387096,65.0,Male,48.405926,18.839219,2024-03-19,John Johnson,Adulto
+350,Lynx,Slovakia,16.0,65.0,Male,48.405926,18.839219,2024-03-19,John Johnson,Adulto
 351,Red Squirrel,Slovakia,0.33,18.0,Not Determined,48.184757,17.082936,2024-03-19,John Johnson,Adulto
 352,Red Squirrel,Slovakia,0.323,23.0,Female,48.186767,17.089935,2024-03-19,John Johnson,Adulto
 353,Hedgehog,Poland,0.4,16.0,Female,52.214754,21.034364,2024-03-20,Anne Anthony,Joven
@@ -295,7 +295,7 @@
 361,European Bison,Poland,302.0,150.0,Female,52.820447,23.813259,2024-03-21,Anne Anthony,Adulto
 362,Hedgehog,Hungary,1.2,29.0,Male,48.503795,20.555932,2024-03-21,Anne Anthony,Adulto
 363,Hedgehog,Poland,1.2,25.0,Male,52.214156,21.0325,2024-03-21,Anne Anthony,Adulto
-364,Lynx,Poland,171.0,75.0,Male,52.831229,23.814123,2024-03-21,Anne Anthony,Adulto
+364,Lynx,Poland,20.774193548387096,75.0,Male,52.831229,23.814123,2024-03-21,Anne Anthony,Adulto
 365,Lynx,Poland,18.0,73.0,Female,52.832726,23.825032,2024-03-21,Anne Anthony,Adulto
 366,Red Squirrel,Poland,0.33,23.0,Male,50.041479,19.951211,2024-03-21,Anne Anthony,Adulto
 367,Red Squirrel,Poland,0.2967972350230415,20.64351851851852,Male,50.041154,19.949919,2024-03-21,Anne Anthony,Adulto
@@ -413,7 +413,7 @@
 493,Hedgehog,Germany,0.6,15.0,Female,48.16142,11.495056,2024-03-30,Bob Bobson,Adulto
 494,Hedgehog,Germany,0.5,16.0,Female,48.162549,11.492991,2024-03-30,Bob Bobson,Joven
 495,Hedgehog,Germany,0.9,19.0,Male,48.161646,11.493511,2024-03-30,Bob Bobson,Adulto
-496,Lynx,Slovakia,20.774193548387096,85.0,Male,48.405213,18.84085,2024-03-30,John Johnson,Adulto
+496,Lynx,Slovakia,21.0,85.0,Male,48.405213,18.84085,2024-03-30,John Johnson,Adulto
 497,Red Squirrel,Czech Republic,0.288,18.0,Male,49.939,14.182239,2024-03-30,John Johnson,Adulto
 498,Red Squirrel,Slovakia,0.287,21.0,Male,48.224897,17.085979,2024-03-30,John Johnson,Adulto
 499,Red Squirrel,Slovakia,0.286,18.0,Male,48.228961,17.076478,2024-03-30,John Johnson,Adulto
@@ -431,7 +431,7 @@
 514,Red Squirrel,Czech Republic,0.283,22.0,Female,49.939191,14.180256,2024-04-01,John Johnson,Adulto
 515,Red Squirrel,Slovakia,0.26,22.0,Female,48.23123,17.090253,2024-04-01,John Johnson,Adulto
 518,Hedgehog,Hungary,0.6,20.0,Female,48.504425,20.548744,2024-04-02,Anne Anthony,Adulto
-519,Lynx,Poland,20.774193548387096,101.0,Male,52.824599,23.816842,2024-04-02,Anne Anthony,Adulto
+519,Lynx,Poland,22.0,101.0,Male,52.824599,23.816842,2024-04-02,Anne Anthony,Adulto
 520,Red Squirrel,Poland,0.294,19.0,Male,50.041131,19.949543,2024-04-02,Anne Anthony,Adulto
 521,Red Squirrel,Poland,0.2967972350230415,20.64351851851852,Male,50.041552,19.949984,2024-04-02,Anne Anthony,Adulto
 522,Red Squirrel,Poland,0.312,23.0,Female,50.041945,19.94932,2024-04-02,Anne Anthony,Adulto
@@ -495,45 +495,45 @@
 590,Red Squirrel,Germany,0.327,20.0,Male,49.550428,11.077659,2024-04-05,Bob Bobson,Adulto
 591,Red Squirrel,Germany,0.255,19.0,Female,49.558869,11.076638,2024-04-05,Bob Bobson,Adulto
 592,Hedgehog,Slovakia,0.8,21.0,Female,48.412408,18.869074,2024-04-05,John Johnson,Adulto
-593,Lynx,Czech Republic,20.774193548387096,70.0,Male,50.883894,14.372364,2024-04-05,John Johnson,Adulto
+593,Lynx,Czech Republic,15.0,70.0,Male,50.883894,14.372364,2024-04-05,John Johnson,Joven
 594,Red Squirrel,Slovakia,0.3,19.0,Female,48.229837,17.089218,2024-04-05,John Johnson,Adulto
 595,European Bison,Poland,589.0,279.0,Female,52.808704,23.705504,2024-04-06,Anne Anthony,Adulto
 596,Hedgehog,Hungary,0.7,16.0,Female,47.510231,18.940042,2024-04-06,Anne Anthony,Adulto
 597,Hedgehog,Hungary,0.8,14.0,Female,47.509073,18.946838,2024-04-06,Anne Anthony,Adulto
 598,Red Squirrel,Poland,0.348,23.0,Male,50.041252,19.950033,2024-04-06,Anne Anthony,Adulto
 599,Red Squirrel,Austria,0.294,22.0,Male,47.855007,15.076539,2024-04-06,Bob Bobson,Adulto
-600,Red Squirrel,Germany,0.299,19.0,Male,49.76874408655164,11.870447109509687,2024-04-06,Bob Bobson,Adulto
-601,Red Squirrel,Germany,0.314,19.0,Female,49.73385436042838,11.905590775846226,2024-04-06,Bob Bobson,Adulto
-602,Red Squirrel,Germany,0.297,20.0,Male,49.72099809283763,11.853626528780339,2024-04-06,Bob Bobson,Adulto
-603,Red Squirrel,Germany,0.298,21.0,Male,49.710278222771436,11.836452714814273,2024-04-06,Bob Bobson,Adulto
-604,Red Squirrel,Germany,0.301,19.0,Male,49.70253369098812,11.907967743495435,2024-04-06,Bob Bobson,Adulto
-605,Red Squirrel,Germany,0.267,20.0,Female,49.74890588983609,11.897083961993754,2024-04-06,Bob Bobson,Adulto
-606,Red Squirrel,Germany,0.315,21.0,Male,49.744627486048614,11.853594776764394,2024-04-06,Bob Bobson,Adulto
-607,Red Squirrel,Germany,0.3,21.0,Female,49.7877150210137,11.855546371616615,2024-04-06,Bob Bobson,Adulto
-608,Red Squirrel,Germany,0.3,21.0,Male,49.710831759349965,11.8716428897003,2024-04-06,Bob Bobson,Adulto
-609,Red Squirrel,Germany,0.264,22.0,Female,49.79659023740329,11.839682859219064,2024-04-06,Bob Bobson,Adulto
-610,Red Squirrel,Germany,0.251,21.0,Male,49.777978276505635,11.90211807818888,2024-04-06,Bob Bobson,Adulto
-611,Red Squirrel,Germany,0.302,22.0,Female,49.732064515879365,11.900352620895461,2024-04-06,Bob Bobson,Adulto
-612,Red Squirrel,Germany,0.262,22.0,Female,49.74873150302639,11.831561310212917,2024-04-06,Bob Bobson,Adulto
-613,Red Squirrel,Germany,0.301,20.0,Male,49.73669712533464,11.852279875431055,2024-04-06,Bob Bobson,Adulto
-614,Red Squirrel,Germany,0.243,19.0,Male,49.724065257377845,11.900228955821278,2024-04-06,Bob Bobson,Joven
-615,Red Squirrel,Germany,0.314,20.0,Male,49.788484887972146,11.865131601571823,2024-04-06,Bob Bobson,Adulto
-616,Red Squirrel,Germany,0.244,20.0,Male,49.723152921449035,11.923554589768731,2024-04-06,Bob Bobson,Joven
-617,Red Squirrel,Germany,0.25,22.0,Male,49.75696669694875,11.906471420763651,2024-04-06,Bob Bobson,Joven
-618,Red Squirrel,Germany,0.272,20.0,Male,49.76067095308972,11.872865082067184,2024-04-06,Bob Bobson,Adulto
-619,Red Squirrel,Germany,0.289,20.0,Male,49.773012160607145,11.885993102775464,2024-04-06,Bob Bobson,Adulto
-620,Red Squirrel,Germany,0.315,20.0,Male,49.78116878678859,11.87822016780217,2024-04-06,Bob Bobson,Adulto
-621,Red Squirrel,Germany,0.304,21.0,Male,49.735262108449874,11.881664340791668,2024-04-06,Bob Bobson,Adulto
-622,Red Squirrel,Germany,0.241,19.0,Male,49.72957110782256,11.877901976407955,2024-04-06,Bob Bobson,Joven
-623,Red Squirrel,Germany,0.248,22.0,Male,49.75274202427705,11.88225770800518,2024-04-06,Bob Bobson,Joven
-625,Red Squirrel,Germany,0.29,21.0,Male,49.78549904761714,11.902264391267591,2024-04-06,Bob Bobson,Adulto
-626,Red Squirrel,Austria,0.319,20.0,Male,47.779290695779814,14.663939676030552,2024-04-06,Bob Bobson,Adulto
-627,Red Squirrel,Austria,0.292,19.0,Female,47.854006334310185,14.66532420690701,2024-04-06,Bob Bobson,Adulto
-628,Red Squirrel,Austria,0.319,19.0,Female,47.83623438339817,14.711235483910711,2024-04-06,Bob Bobson,Adulto
-629,Red Squirrel,Austria,0.298,20.0,Male,47.827142971294045,14.697798107228135,2024-04-06,Bob Bobson,Adulto
-630,Red Squirrel,Austria,0.255,22.0,Male,47.83538207109224,14.706975068238702,2024-04-06,Bob Bobson,Adulto
-631,Red Squirrel,Austria,0.3,20.0,Male,47.858714078294256,14.66431560348927,2024-04-06,Bob Bobson,Adulto
-632,Red Squirrel,Austria,0.252,21.0,Male,47.79672989321362,14.717665397477644,2024-04-06,Bob Bobson,Adulto
+600,Red Squirrel,Germany,0.299,19.0,Male,49.76920237709934,11.84575149104025,2024-04-06,Bob Bobson,Adulto
+601,Red Squirrel,Germany,0.314,19.0,Female,49.76879620695411,11.897227259346133,2024-04-06,Bob Bobson,Adulto
+602,Red Squirrel,Germany,0.297,20.0,Male,49.7872131719125,11.874817375053272,2024-04-06,Bob Bobson,Adulto
+603,Red Squirrel,Germany,0.298,21.0,Male,49.78113970282547,11.837967336699853,2024-04-06,Bob Bobson,Adulto
+604,Red Squirrel,Germany,0.301,19.0,Male,49.71290253977286,11.86742741145089,2024-04-06,Bob Bobson,Adulto
+605,Red Squirrel,Germany,0.267,20.0,Female,49.717489567217186,11.834779620959964,2024-04-06,Bob Bobson,Adulto
+606,Red Squirrel,Germany,0.315,21.0,Male,49.77522687995688,11.831574551856871,2024-04-06,Bob Bobson,Adulto
+607,Red Squirrel,Germany,0.3,21.0,Female,49.742794755888305,11.921384917353382,2024-04-06,Bob Bobson,Adulto
+608,Red Squirrel,Germany,0.3,21.0,Male,49.769572633747934,11.894597357538656,2024-04-06,Bob Bobson,Adulto
+609,Red Squirrel,Germany,0.264,22.0,Female,49.77282005768303,11.837916557996865,2024-04-06,Bob Bobson,Adulto
+610,Red Squirrel,Germany,0.251,21.0,Male,49.77673395143445,11.83319727678212,2024-04-06,Bob Bobson,Adulto
+611,Red Squirrel,Germany,0.302,22.0,Female,49.72617765770966,11.8513817996546,2024-04-06,Bob Bobson,Adulto
+612,Red Squirrel,Germany,0.262,22.0,Female,49.72458671036502,11.907677670700222,2024-04-06,Bob Bobson,Adulto
+613,Red Squirrel,Germany,0.301,20.0,Male,49.79672394919323,11.864075058257185,2024-04-06,Bob Bobson,Adulto
+614,Red Squirrel,Germany,0.243,19.0,Male,49.75244264440822,11.890605988033517,2024-04-06,Bob Bobson,Joven
+615,Red Squirrel,Germany,0.314,20.0,Male,49.7827621651643,11.900506301969791,2024-04-06,Bob Bobson,Adulto
+616,Red Squirrel,Germany,0.244,20.0,Male,49.7781067848292,11.831754267500408,2024-04-06,Bob Bobson,Joven
+617,Red Squirrel,Germany,0.25,22.0,Male,49.73598660747287,11.928267279780309,2024-04-06,Bob Bobson,Joven
+618,Red Squirrel,Germany,0.272,20.0,Male,49.702657809963064,11.872320388701066,2024-04-06,Bob Bobson,Adulto
+619,Red Squirrel,Germany,0.289,20.0,Male,49.782823432470906,11.859555436957699,2024-04-06,Bob Bobson,Adulto
+620,Red Squirrel,Germany,0.315,20.0,Male,49.766152504140344,11.897489153946866,2024-04-06,Bob Bobson,Adulto
+621,Red Squirrel,Germany,0.304,21.0,Male,49.72146290257938,11.915500347709413,2024-04-06,Bob Bobson,Adulto
+622,Red Squirrel,Germany,0.241,19.0,Male,49.71515503796954,11.854420487358816,2024-04-06,Bob Bobson,Joven
+623,Red Squirrel,Germany,0.248,22.0,Male,49.70417008314708,11.857304806202658,2024-04-06,Bob Bobson,Joven
+625,Red Squirrel,Germany,0.29,21.0,Male,49.77345060054514,11.832937188096915,2024-04-06,Bob Bobson,Adulto
+626,Red Squirrel,Austria,0.319,20.0,Male,47.76897151748252,14.74510695246856,2024-04-06,Bob Bobson,Adulto
+627,Red Squirrel,Austria,0.292,19.0,Female,47.8453100724629,14.69292186794044,2024-04-06,Bob Bobson,Adulto
+628,Red Squirrel,Austria,0.319,19.0,Female,47.790370773665096,14.7048993129801,2024-04-06,Bob Bobson,Adulto
+629,Red Squirrel,Austria,0.298,20.0,Male,47.784322982636624,14.672428320982082,2024-04-06,Bob Bobson,Adulto
+630,Red Squirrel,Austria,0.255,22.0,Male,47.82465139257952,14.692072696255407,2024-04-06,Bob Bobson,Adulto
+631,Red Squirrel,Austria,0.3,20.0,Male,47.81499305912177,14.714644783454606,2024-04-06,Bob Bobson,Adulto
+632,Red Squirrel,Austria,0.252,21.0,Male,47.81424496529107,14.663863603708075,2024-04-06,Bob Bobson,Adulto
 633,Hedgehog,Slovakia,0.8,17.0,Male,48.409645,18.872415,2024-04-06,John Johnson,Adulto
 634,Lynx,Czech Republic,26.0,88.0,Female,50.883881,14.373018,2024-04-06,John Johnson,Adulto
 635,Red Squirrel,Czech Republic,0.316,23.0,Female,49.93931,14.181266,2024-04-06,John Johnson,Adulto
@@ -542,7 +542,7 @@
 638,Red Squirrel,Czech Republic,0.313,22.0,Female,49.939308,14.180747,2024-04-06,John Johnson,Adulto
 640,European Bison,Poland,1100.0,350.0,Male,52.803316,23.686301,2024-04-07,Anne Anthony,Adulto
 641,Hedgehog,Hungary,0.9,16.0,Female,47.506638,18.940091,2024-04-07,Anne Anthony,Adulto
-642,Lynx,Poland,20.774193548387096,73.0,Male,52.823016,23.812286,2024-04-07,Anne Anthony,Adulto
+642,Lynx,Poland,23.0,73.0,Male,52.823016,23.812286,2024-04-07,Anne Anthony,Adulto
 643,Red Squirrel,Hungary,0.319,18.0,Male,47.508665,18.940456,2024-04-07,Anne Anthony,Adulto
 644,Red Squirrel,Hungary,0.28,21.0,Female,47.510978,18.942963,2024-04-07,Anne Anthony,Adulto
 645,Red Squirrel,Austria,0.264,22.0,Female,47.857586,15.081328,2024-04-07,Bob Bobson,Adulto
@@ -575,7 +575,7 @@
 675,Red Squirrel,Czech Republic,0.313,21.0,Male,49.937425,14.182723,2024-04-09,John Johnson,Adulto
 676,Red Squirrel,Czech Republic,0.282,19.0,Female,49.939072,14.180063,2024-04-09,John Johnson,Adulto
 679,European Bison,Poland,486.0,235.0,Female,52.809086,23.696425,2024-04-10,Anne Anthony,Adulto
-680,Lynx,Poland,20.774193548387096,78.0,Male,52.821625,23.818063,2024-04-10,Anne Anthony,Adulto
+680,Lynx,Poland,22.0,78.0,Male,52.821625,23.818063,2024-04-10,Anne Anthony,Adulto
 681,Hedgehog,Slovakia,1.2,26.0,Male,48.409469,18.861715,2024-04-10,John Johnson,Adulto
 682,Red Squirrel,Czech Republic,0.257,21.0,Male,50.107147,14.347009,2024-04-10,John Johnson,Adulto
 683,European Bison,Poland,610.0,281.0,Female,52.810989,23.689137,2024-04-11,Anne Anthony,Adulto
@@ -591,7 +591,7 @@
 693,Red Squirrel,Germany,0.267,22.0,Female,48.161385,11.492571,2024-04-11,Bob Bobson,Adulto
 694,Red Squirrel,Germany,0.258,20.0,Female,48.162137,11.494415,2024-04-11,Bob Bobson,Adulto
 695,Red Squirrel,Germany,0.296,18.0,Male,48.162162,11.493917,2024-04-11,Bob Bobson,Adulto
-696,Lynx,Slovakia,20.774193548387096,88.0,Male,48.40855,18.864935,2024-04-11,John Johnson,Adulto
+696,Lynx,Slovakia,22.0,88.0,Male,48.40855,18.864935,2024-04-11,John Johnson,Adulto
 697,Red Squirrel,Czech Republic,0.308,22.0,Female,50.106721,14.346231,2024-04-11,John Johnson,Adulto
 701,European Bison,Poland,853.0,287.0,Male,52.80356,23.690378,2024-04-12,Anne Anthony,Adulto
 702,Red Squirrel,Germany,0.302,18.0,Female,48.160992,11.495374,2024-04-12,Bob Bobson,Adulto
@@ -640,7 +640,7 @@
 754,Red Squirrel,Germany,0.294,20.0,Male,49.545857,11.076254,2024-04-17,Bob Bobson,Adulto
 755,Red Squirrel,Germany,0.3,23.0,Female,49.554685,11.08345,2024-04-17,Bob Bobson,Adulto
 756,Hedgehog,Slovakia,1.1,23.0,Male,48.186112,17.090491,2024-04-17,John Johnson,Adulto
-757,Lynx,Slovakia,20.774193548387096,100.0,Male,48.411117,18.862265,2024-04-17,John Johnson,Adulto
+757,Lynx,Slovakia,27.0,100.0,Male,48.411117,18.862265,2024-04-17,John Johnson,Adulto
 758,Red Squirrel,Czech Republic,0.283,22.0,Female,50.106413,14.348204,2024-04-17,John Johnson,Adulto
 759,Red Squirrel,Czech Republic,0.28,22.0,Female,50.107135,14.348206,2024-04-17,John Johnson,Adulto
 761,European Bison,Poland,405.0,220.0,Female,52.804031,23.683032,2024-04-18,Anne Anthony,Adulto
@@ -662,7 +662,7 @@
 777,European Bison,Czech Republic,656.0,245.0,Female,50.643056,14.843037,2024-04-19,John Johnson,Adulto
 778,Hedgehog,Slovakia,1.1,19.0,Female,48.187522,17.087251,2024-04-19,John Johnson,Adulto
 779,Hedgehog,Slovakia,1.1,29.0,Male,48.185406,17.084535,2024-04-19,John Johnson,Adulto
-780,Lynx,Czech Republic,20.774193548387096,52.0,Male,50.8834025,14.3712615,2024-04-19,John Johnson,Adulto
+780,Lynx,Czech Republic,12.0,52.0,Male,50.8834025,14.3712615,2024-04-19,John Johnson,Joven
 781,Lynx,Slovakia,24.0,81.0,Female,48.408549,18.87396,2024-04-19,John Johnson,Adulto
 782,Lynx,Czech Republic,22.0,83.0,Female,50.882924,14.368207,2024-04-19,John Johnson,Adulto
 784,Red Squirrel,Poland,0.327,23.0,Male,52.212168,21.032304,2024-04-20,Anne Anthony,Adulto
@@ -673,12 +673,12 @@
 793,Hedgehog,Slovakia,0.8,18.0,Male,48.186208,17.089749,2024-04-21,John Johnson,Adulto
 794,Red Squirrel,Poland,0.306,19.0,Female,52.212605,21.033877,2024-04-22,Anne Anthony,Adulto
 795,Red Squirrel,Poland,0.349,20.0,Female,52.212001,21.033903,2024-04-22,Anne Anthony,Adulto
-796,Lynx,Czech Republic,20.774193548387096,78.0,Male,50.8834025,14.3712615,2024-04-22,John Johnson,Adulto
+796,Lynx,Czech Republic,23.0,78.0,Male,50.8834025,14.3712615,2024-04-22,John Johnson,Adulto
 799,Hedgehog,Slovakia,0.7,16.0,Male,48.184231,17.091694,2024-04-23,John Johnson,Adulto
 800,European Bison,Poland,650.0,286.0,Female,52.812486,23.686231,2024-04-24,Anne Anthony,Adulto
 801,Red Squirrel,Poland,0.271,19.0,Female,52.211797,21.032857,2024-04-24,Anne Anthony,Adulto
 802,Red Squirrel,Poland,0.329,24.0,Female,52.212045,21.031986,2024-04-24,Anne Anthony,Adulto
-803,Lynx,Austria,20.774193548387096,90.0,Male,47.781188,14.385356,2024-04-24,Bob Bobson,Adulto
+803,Lynx,Austria,20.0,90.0,Male,47.781188,14.385356,2024-04-24,Bob Bobson,Adulto
 804,Lynx,Austria,26.0,91.0,Female,47.780999,14.38212,2024-04-24,Bob Bobson,Adulto
 805,Hedgehog,Slovakia,0.6,15.0,Female,48.185648,17.083763,2024-04-24,John Johnson,Adulto
 808,Lynx,Poland,14.0,65.0,Female,52.851841,23.89158,2024-04-25,Anne Anthony,Joven
@@ -687,7 +687,7 @@
 812,Red Squirrel,Poland,0.29,24.0,Female,52.212763,21.032786,2024-04-27,Anne Anthony,Adulto
 813,Hedgehog,Slovakia,1.2,22.0,Male,48.186913,17.088174,2024-04-27,John Johnson,Adulto
 814,Hedgehog,Slovakia,0.7,24.0,Female,48.185649,17.088834,2024-04-27,John Johnson,Adulto
-816,Lynx,Poland,20.774193548387096,52.0,Male,52.848214,23.891978,2024-04-28,Anne Anthony,Adulto
+816,Lynx,Poland,12.0,52.0,Male,52.848214,23.891978,2024-04-28,Anne Anthony,Joven
 817,Lynx,Poland,27.0,95.0,Female,52.853843,23.919668,2024-04-28,Anne Anthony,Adulto
 818,Red Squirrel,Poland,0.312,23.0,Male,52.21212,21.034268,2024-04-28,Anne Anthony,Adulto
 819,Hedgehog,Germany,0.5,20.0,Male,49.55324,11.074008,2024-04-28,Bob Bobson,Joven
@@ -699,7 +699,7 @@
 826,Hedgehog,Hungary,0.6,16.0,Female,47.506035,18.944528,2024-04-29,Anne Anthony,Adulto
 827,Red Squirrel,Poland,0.27,21.0,Female,52.21239,21.034548,2024-04-29,Anne Anthony,Adulto
 828,Hedgehog,Slovakia,1.1,23.0,Male,48.183848,17.082806,2024-04-29,John Johnson,Adulto
-829,Lynx,Slovakia,20.774193548387096,73.0,Male,48.410551,18.864866,2024-04-29,John Johnson,Adulto
+829,Lynx,Slovakia,22.0,73.0,Male,48.410551,18.864866,2024-04-29,John Johnson,Adulto
 831,Red Squirrel,Poland,0.292,20.0,Female,52.212433,21.032496,2024-04-30,Anne Anthony,Adulto
 834,Red Squirrel,Poland,0.305,19.0,Female,52.212746,21.033832,2024-05-09,Anne Anthony,Adulto
 835,Hedgehog,Slovakia,0.7,22.0,Male,48.23276,17.069049,2024-05-09,John Johnson,Adulto
@@ -728,12 +728,12 @@
 865,Red Squirrel,Poland,0.294,24.0,Female,52.21294,21.034208,2024-05-17,Anne Anthony,Adulto
 866,Hedgehog,Slovakia,0.6,20.0,Male,48.235981,17.081698,2024-05-17,John Johnson,Adulto
 867,Hedgehog,Slovakia,0.8,16.0,Female,48.23493,17.084813,2024-05-17,John Johnson,Adulto
-868,Lynx,Slovakia,20.774193548387096,76.0,Male,48.412724,18.868878,2024-05-17,John Johnson,Adulto
+868,Lynx,Slovakia,18.0,76.0,Male,48.412724,18.868878,2024-05-17,John Johnson,Adulto
 872,Red Squirrel,Poland,0.306,21.0,Male,52.211896,21.033806,2024-05-18,Anne Anthony,Adulto
 873,Red Squirrel,Poland,0.277,22.0,Male,52.211924,21.033243,2024-05-18,Anne Anthony,Adulto
 876,Hedgehog,Hungary,1.1,22.0,Female,47.510584,18.94173,2024-05-19,Anne Anthony,Adulto
 877,Hedgehog,Slovakia,0.6,19.0,Female,48.236605,17.071495,2024-05-19,John Johnson,Adulto
-878,Lynx,Slovakia,20.774193548387096,85.0,Male,48.411436,18.86478,2024-05-19,John Johnson,Adulto
+878,Lynx,Slovakia,22.0,85.0,Male,48.411436,18.86478,2024-05-19,John Johnson,Adulto
 879,Red Squirrel,Poland,0.341,21.0,Female,52.212295,21.034039,2024-05-20,Anne Anthony,Adulto
 881,Red Squirrel,Poland,0.338,22.0,Female,52.212915,21.033226,2024-05-21,Anne Anthony,Adulto
 882,Red Squirrel,Poland,0.311,19.0,Female,52.212601,21.032613,2024-05-21,Anne Anthony,Adulto
@@ -778,11 +778,11 @@
 942,Red Squirrel,Czech Republic,0.258,20.0,Male,50.882642,14.372818,2024-06-08,John Johnson,Adulto
 943,Red Squirrel,Czech Republic,0.333,23.0,Male,50.883849,14.367353,2024-06-10,John Johnson,Adulto
 944,Red Squirrel,Czech Republic,0.278,18.0,Female,50.884288,14.372837,2024-06-11,John Johnson,Adulto
-945,Lynx,Slovakia,20.774193548387096,95.0,Male,48.411736,18.874597,2024-06-19,John Johnson,Adulto
+945,Lynx,Slovakia,23.0,95.0,Male,48.411736,18.874597,2024-06-19,John Johnson,Adulto
 946,Lynx,Slovakia,11.0,52.0,Female,48.41179,18.87165,2024-06-19,John Johnson,Joven
 947,Lynx,Czech Republic,25.0,97.0,Female,50.881003,14.369286,2024-06-30,John Johnson,Adulto
 948,Lynx,Slovakia,15.0,65.0,Female,48.406339,18.841071,2024-07-03,James Johnson,Joven
-949,Lynx,Slovakia,20.774193548387096,85.0,Male,48.411729,18.835591,2024-07-03,James Johnson,Adulto
+949,Lynx,Slovakia,18.0,85.0,Male,48.411729,18.835591,2024-07-03,James Johnson,Adulto
 950,Red Squirrel,Slovakia,0.297,20.0,Not Determined,49.054132,22.411066,2024-07-03,James Johnson,Adulto
 951,Red Squirrel,Slovakia,0.273,23.0,Female,49.055962,22.425527,2024-07-03,James Johnson,Adulto
 952,Red Squirrel,Slovakia,0.254,19.0,Male,49.055646,22.412458,2024-07-03,James Johnson,Adulto
@@ -795,7 +795,7 @@
 960,Red Squirrel,Slovakia,0.327,23.0,Male,49.057284,22.423861,2024-08-03,James Johnson,Adulto
 961,Red Squirrel,Slovakia,0.319,22.0,Female,49.054751,22.41916,2024-08-03,James Johnson,Adulto
 962,Red Squirrel,Slovakia,0.303,20.0,Male,49.05593,22.424085,2024-08-03,James Johnson,Adulto
-964,Lynx,Slovakia,20.774193548387096,61.0,Male,48.413928,18.835281,2024-09-03,James Johnson,Adulto
+964,Lynx,Slovakia,12.0,61.0,Male,48.413928,18.835281,2024-09-03,James Johnson,Joven
 965,Red Squirrel,Slovakia,0.309,20.0,Female,49.057758,22.415169,2024-09-03,James Johnson,Adulto
 966,Red Squirrel,Slovakia,0.332,19.0,Male,48.185695,17.090742,2024-09-03,James Johnson,Adulto
 967,Red Squirrel,Slovakia,0.331,18.0,Female,48.18604,17.091147,2024-11-03,James Johnson,Adulto
@@ -803,7 +803,7 @@
 973,Hedgehog,Hungary,0.9,16.0,Female,47.507053,18.943306,2024-05-01,Anne Anthony,Adulto
 974,Red Squirrel,Poland,0.281,21.0,Male,52.211985,21.032869,2024-05-01,Anne Anthony,Adulto
 975,Hedgehog,Slovakia,0.6,19.0,Female,48.184621,17.089464,2024-05-01,John Johnson,Adulto
-976,Lynx,Slovakia,20.774193548387096,96.0,Male,48.406669,18.871602,2024-05-01,John Johnson,Adulto
+976,Lynx,Slovakia,27.0,96.0,Male,48.406669,18.871602,2024-05-01,John Johnson,Adulto
 978,Lynx,Poland,13.0,63.0,Female,52.846379,23.90499,2024-05-02,Anne Anthony,Joven
 979,Lynx,Poland,20.0,87.0,Female,52.852069,23.90087,2024-05-02,Anne Anthony,Adulto
 980,Red Squirrel,Poland,0.282,22.0,Female,52.212911,21.034175,2024-05-02,Anne Anthony,Adulto
